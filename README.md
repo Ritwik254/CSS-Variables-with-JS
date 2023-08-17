@@ -1,0 +1,4 @@
+# CSS-Variables-with-JS
+**CSS Variables with JS Project**
+
+This GitHub repository contains a simple web project that demonstrates the use of CSS variables in combination with JavaScript to create dynamic and interactive visual effects on a webpage. The project provides sliders and a color picker to manipulate spacing, blur, and base color, offering users real-time control over these elements. The HTML structure defines the UI components, while the included CSS stylesheet styles the webpage and leverages CSS variables for consistent theming. The JavaScript file interacts with the input elements, updating CSS variable values upon user input, and provides immediate visual feedback through the application of dynamic styles. This project serves as an educational resource for those learning about CSS variables, JavaScript event handling, and responsive design techniques.
